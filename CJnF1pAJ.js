@@ -1,0 +1,1 @@
+import{bN as e}from"./-8RROWZu.js";class o{static login(s){return e.post("/user/auth/login",s,{needToken:!1})}static logout(){return e.delete("/user/auth/logout")}static getLiveSession(){return e.get("/user/sessions")}static getCurrentSession(){return e.get("/user/sessions")}}export{o as A};
