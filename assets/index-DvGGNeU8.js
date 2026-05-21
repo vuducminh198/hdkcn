@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{bE as t}from"./index-DegLwvmn.js";const o={};function n(r,s){return t(r.$slots,"default")}const _=e(o,[["render",n]]);export{_ as default};
