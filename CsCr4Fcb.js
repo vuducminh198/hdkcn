@@ -1,0 +1,1 @@
+import{bv as a,a7 as o,bM as s,bi as t}from"./9ge5YqQ_.js";const n={__name:"AppCard",props:{bordered:Boolean},setup(e){return(r,d)=>(a(),o("div",{class:t(["auto-bg",{"card-border":e.bordered}])},[s(r.$slots,"default")],2))}};export{n as _};
