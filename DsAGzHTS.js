@@ -1,0 +1,1 @@
+import{bN as e}from"./CjIFb36f.js";class o{static synchronize(){return e.get("/company/customers/synchronize")}static getList(t){return e.get("/company/customers",{params:t})}static getDetail(t){return e.get(`/company/customers/${t}`)}static update(t,s){return e.put(`/company/customers/${t}`,s)}static delete(t){return e.delete(`/company/customers/${t}`)}}export{o as C};
